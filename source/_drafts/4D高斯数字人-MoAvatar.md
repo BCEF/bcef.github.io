@@ -6,7 +6,7 @@ tags: [ Python, Gaussian Splatting]
 layout: post
 description: 高斯泼溅
 # 图片放在 source/images/ 目录下
-cover: /images/moavatar.png
+# cover: /images/moavatar.png
 ---
 
 ## 🌟 项目概述与目标
